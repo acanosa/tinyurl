@@ -13,7 +13,6 @@ The application allows users to create short URLs that redirect to their origina
 * PostgreSQL persistence
 * Automatic database initialization through JPA/Hibernate
 * Containerized development environment with Docker Compose
-* RESTful API design
 
 ## Architecture
 
