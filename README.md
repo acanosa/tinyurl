@@ -1,4 +1,4 @@
-# URL Shortener API
+# URL Shortener API a.k.a tinyurl
 
 A scalable URL shortening service built with **Java 21**, **Spring Boot**, **PostgreSQL**, **Redis**, and **Docker Compose**.
 
@@ -132,7 +132,7 @@ http://localhost:8080
 
 
 
-## 🧮 Short Code Generation
+## Short Code Generation
 
 The application generates short identifiers using **Base62 encoding**:
 
